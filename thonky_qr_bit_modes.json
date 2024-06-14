@@ -1,0 +1,5 @@
+{
+  "1-9": { "numeric": 10, "alphanumeric": 9, "byte": 8, "kanji": 8 },
+  "10-26": { "numeric": 12, "alphanumeric": 11, "byte": 16, "kanji": 10 },
+  "27-40": { "numeric": 14, "alphanumeric": 13, "byte": 16, "kanji": 12 }
+}

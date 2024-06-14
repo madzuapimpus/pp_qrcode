@@ -1,0 +1,1362 @@
+{
+  "1": {
+    "L": {
+      "data_codewords": 19,
+      "ec_codewords_per_block": 7,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 19,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 16,
+      "ec_codewords_per_block": 10,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 13,
+      "ec_codewords_per_block": 13,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 13,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "H": {
+      "data_codewords": 9,
+      "ec_codewords_per_block": 17,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 9,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "2": {
+    "L": {
+      "data_codewords": 34,
+      "ec_codewords_per_block": 10,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 34,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 28,
+      "ec_codewords_per_block": 16,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 28,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 22,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "H": {
+      "data_codewords": 16,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "3": {
+    "L": {
+      "data_codewords": 55,
+      "ec_codewords_per_block": 15,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 55,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 44,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 44,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 34,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 17,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "H": {
+      "data_codewords": 26,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 13,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "4": {
+    "L": {
+      "data_codewords": 80,
+      "ec_codewords_per_block": 20,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 80,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 64,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 32,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 48,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "H": {
+      "data_codewords": 36,
+      "ec_codewords_per_block": 16,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 9,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "5": {
+    "L": {
+      "data_codewords": 108,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 108,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 86,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 43,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 62,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 16
+    },
+    "H": {
+      "data_codewords": 46,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 11,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 12
+    }
+  },
+  "6": {
+    "L": {
+      "data_codewords": 136,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 68,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 108,
+      "ec_codewords_per_block": 16,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 27,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 76,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 19,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "H": {
+      "data_codewords": 60,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "7": {
+    "L": {
+      "data_codewords": 156,
+      "ec_codewords_per_block": 20,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 78,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 124,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 31,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 88,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 14,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 15
+    },
+    "H": {
+      "data_codewords": 66,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 13,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 14
+    }
+  },
+  "8": {
+    "L": {
+      "data_codewords": 194,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 97,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 154,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 38,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 39
+    },
+    "Q": {
+      "data_codewords": 110,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 18,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 19
+    },
+    "H": {
+      "data_codewords": 86,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 14,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 15
+    }
+  },
+  "9": {
+    "L": {
+      "data_codewords": 232,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 116,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 182,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 36,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 37
+    },
+    "Q": {
+      "data_codewords": 132,
+      "ec_codewords_per_block": 20,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 17
+    },
+    "H": {
+      "data_codewords": 100,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 12,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 13
+    }
+  },
+  "10": {
+    "L": {
+      "data_codewords": 274,
+      "ec_codewords_per_block": 18,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 68,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 69
+    },
+    "M": {
+      "data_codewords": 216,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 43,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 44
+    },
+    "Q": {
+      "data_codewords": 154,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 19,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 20
+    },
+    "H": {
+      "data_codewords": 122,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "11": {
+    "L": {
+      "data_codewords": 324,
+      "ec_codewords_per_block": 20,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 81,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 254,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 50,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 51
+    },
+    "Q": {
+      "data_codewords": 180,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 23
+    },
+    "H": {
+      "data_codewords": 140,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 12,
+      "second_group_block_count": 8,
+      "ec_codewords_per_second_group_block": 13
+    }
+  },
+  "12": {
+    "L": {
+      "data_codewords": 370,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 92,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 93
+    },
+    "M": {
+      "data_codewords": 290,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 36,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 37
+    },
+    "Q": {
+      "data_codewords": 206,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 20,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 21
+    },
+    "H": {
+      "data_codewords": 158,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 7,
+      "ec_codewords_per_first_group_block": 14,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 15
+    }
+  },
+  "13": {
+    "L": {
+      "data_codewords": 428,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 107,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 334,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 37,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 38
+    },
+    "Q": {
+      "data_codewords": 244,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 20,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 21
+    },
+    "H": {
+      "data_codewords": 180,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 12,
+      "ec_codewords_per_first_group_block": 11,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 12
+    }
+  },
+  "14": {
+    "L": {
+      "data_codewords": 461,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 116
+    },
+    "M": {
+      "data_codewords": 365,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 40,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 41
+    },
+    "Q": {
+      "data_codewords": 261,
+      "ec_codewords_per_block": 20,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 17
+    },
+    "H": {
+      "data_codewords": 197,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 12,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 13
+    }
+  },
+  "15": {
+    "L": {
+      "data_codewords": 523,
+      "ec_codewords_per_block": 22,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 87,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 88
+    },
+    "M": {
+      "data_codewords": 415,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 41,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 42
+    },
+    "Q": {
+      "data_codewords": 295,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 223,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 12,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 13
+    }
+  },
+  "16": {
+    "L": {
+      "data_codewords": 589,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 98,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 99
+    },
+    "M": {
+      "data_codewords": 453,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 7,
+      "ec_codewords_per_first_group_block": 45,
+      "second_group_block_count": 3,
+      "ec_codewords_per_second_group_block": 46
+    },
+    "Q": {
+      "data_codewords": 325,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 15,
+      "ec_codewords_per_first_group_block": 19,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 20
+    },
+    "H": {
+      "data_codewords": 253,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 13,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "17": {
+    "L": {
+      "data_codewords": 647,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 107,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 108
+    },
+    "M": {
+      "data_codewords": 507,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 10,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 367,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": 15,
+      "ec_codewords_per_second_group_block": 23
+    },
+    "H": {
+      "data_codewords": 283,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 14,
+      "second_group_block_count": 17,
+      "ec_codewords_per_second_group_block": 15
+    }
+  },
+  "18": {
+    "L": {
+      "data_codewords": 721,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 120,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 121
+    },
+    "M": {
+      "data_codewords": 563,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 9,
+      "ec_codewords_per_first_group_block": 43,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 44
+    },
+    "Q": {
+      "data_codewords": 397,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 23
+    },
+    "H": {
+      "data_codewords": 313,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 14,
+      "second_group_block_count": 19,
+      "ec_codewords_per_second_group_block": 15
+    }
+  },
+  "19": {
+    "L": {
+      "data_codewords": 795,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 113,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 114
+    },
+    "M": {
+      "data_codewords": 627,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 44,
+      "second_group_block_count": 11,
+      "ec_codewords_per_second_group_block": 45
+    },
+    "Q": {
+      "data_codewords": 445,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 21,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 22
+    },
+    "H": {
+      "data_codewords": 341,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 9,
+      "ec_codewords_per_first_group_block": 13,
+      "second_group_block_count": 16,
+      "ec_codewords_per_second_group_block": 14
+    }
+  },
+  "20": {
+    "L": {
+      "data_codewords": 861,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 107,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 108
+    },
+    "M": {
+      "data_codewords": 669,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 41,
+      "second_group_block_count": 13,
+      "ec_codewords_per_second_group_block": 42
+    },
+    "Q": {
+      "data_codewords": 485,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 15,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 385,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 15,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "21": {
+    "L": {
+      "data_codewords": 932,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 116,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 117
+    },
+    "M": {
+      "data_codewords": 714,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 42,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 512,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 23
+    },
+    "H": {
+      "data_codewords": 406,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 17
+    }
+  },
+  "22": {
+    "L": {
+      "data_codewords": 1006,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 111,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 112
+    },
+    "M": {
+      "data_codewords": 782,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "Q": {
+      "data_codewords": 568,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 7,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 16,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 442,
+      "ec_codewords_per_block": 24,
+      "first_group_block_count": 34,
+      "ec_codewords_per_first_group_block": 13,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    }
+  },
+  "23": {
+    "L": {
+      "data_codewords": 1094,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 121,
+      "second_group_block_count": 5,
+      "ec_codewords_per_second_group_block": 122
+    },
+    "M": {
+      "data_codewords": 860,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 614,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 464,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 16,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "24": {
+    "L": {
+      "data_codewords": 1174,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 117,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 118
+    },
+    "M": {
+      "data_codewords": 914,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 45,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 46
+    },
+    "Q": {
+      "data_codewords": 664,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 16,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 514,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 30,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 17
+    }
+  },
+  "25": {
+    "L": {
+      "data_codewords": 1276,
+      "ec_codewords_per_block": 26,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 106,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 107
+    },
+    "M": {
+      "data_codewords": 1000,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 13,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 718,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 7,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 22,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 538,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 22,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 13,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "26": {
+    "L": {
+      "data_codewords": 1370,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 10,
+      "ec_codewords_per_first_group_block": 114,
+      "second_group_block_count": 2,
+      "ec_codewords_per_second_group_block": 115
+    },
+    "M": {
+      "data_codewords": 1062,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 754,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 28,
+      "ec_codewords_per_first_group_block": 22,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 23
+    },
+    "H": {
+      "data_codewords": 596,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 33,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 17
+    }
+  },
+  "27": {
+    "L": {
+      "data_codewords": 1468,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 122,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 123
+    },
+    "M": {
+      "data_codewords": 1128,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 22,
+      "ec_codewords_per_first_group_block": 45,
+      "second_group_block_count": 3,
+      "ec_codewords_per_second_group_block": 46
+    },
+    "Q": {
+      "data_codewords": 808,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 8,
+      "ec_codewords_per_first_group_block": 23,
+      "second_group_block_count": 26,
+      "ec_codewords_per_second_group_block": 24
+    },
+    "H": {
+      "data_codewords": 628,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 12,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 28,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "28": {
+    "L": {
+      "data_codewords": 1531,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 117,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 118
+    },
+    "M": {
+      "data_codewords": 1193,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 3,
+      "ec_codewords_per_first_group_block": 45,
+      "second_group_block_count": 23,
+      "ec_codewords_per_second_group_block": 46
+    },
+    "Q": {
+      "data_codewords": 871,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 31,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 661,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 31,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "29": {
+    "L": {
+      "data_codewords": 1631,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 7,
+      "ec_codewords_per_first_group_block": 116,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 117
+    },
+    "M": {
+      "data_codewords": 1267,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 21,
+      "ec_codewords_per_first_group_block": 45,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 46
+    },
+    "Q": {
+      "data_codewords": 911,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 1,
+      "ec_codewords_per_first_group_block": 23,
+      "second_group_block_count": 37,
+      "ec_codewords_per_second_group_block": 24
+    },
+    "H": {
+      "data_codewords": 701,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 26,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "30": {
+    "L": {
+      "data_codewords": 1735,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 5,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 116
+    },
+    "M": {
+      "data_codewords": 1373,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 985,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 15,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 25,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 745,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 23,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 25,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "31": {
+    "L": {
+      "data_codewords": 1843,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 13,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": 3,
+      "ec_codewords_per_second_group_block": 116
+    },
+    "M": {
+      "data_codewords": 1455,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 29,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1033,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 42,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 793,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 23,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 28,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "32": {
+    "L": {
+      "data_codewords": 1955,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": null,
+      "ec_codewords_per_second_group_block": null
+    },
+    "M": {
+      "data_codewords": 1541,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 10,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 23,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1115,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 10,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 35,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 845,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 35,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "33": {
+    "L": {
+      "data_codewords": 2071,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 116
+    },
+    "M": {
+      "data_codewords": 1631,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 14,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 21,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1171,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 29,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 19,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 901,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 11,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 46,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "34": {
+    "L": {
+      "data_codewords": 2191,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 13,
+      "ec_codewords_per_first_group_block": 115,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 116
+    },
+    "M": {
+      "data_codewords": 1725,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 14,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 23,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1231,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 44,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 961,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 59,
+      "ec_codewords_per_first_group_block": 16,
+      "second_group_block_count": 1,
+      "ec_codewords_per_second_group_block": 17
+    }
+  },
+  "35": {
+    "L": {
+      "data_codewords": 2306,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 12,
+      "ec_codewords_per_first_group_block": 121,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 122
+    },
+    "M": {
+      "data_codewords": 1812,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 12,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 26,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 1286,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 39,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 986,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 22,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 41,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "36": {
+    "L": {
+      "data_codewords": 2434,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 121,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 122
+    },
+    "M": {
+      "data_codewords": 1914,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 6,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 34,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 1354,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 46,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 1054,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 2,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 64,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "37": {
+    "L": {
+      "data_codewords": 2566,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 17,
+      "ec_codewords_per_first_group_block": 122,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 123
+    },
+    "M": {
+      "data_codewords": 1992,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 29,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1426,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 49,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 10,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 1096,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 24,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 46,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "38": {
+    "L": {
+      "data_codewords": 2702,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 4,
+      "ec_codewords_per_first_group_block": 122,
+      "second_group_block_count": 18,
+      "ec_codewords_per_second_group_block": 123
+    },
+    "M": {
+      "data_codewords": 2102,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 13,
+      "ec_codewords_per_first_group_block": 46,
+      "second_group_block_count": 32,
+      "ec_codewords_per_second_group_block": 47
+    },
+    "Q": {
+      "data_codewords": 1502,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 48,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 14,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 1142,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 42,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 32,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "39": {
+    "L": {
+      "data_codewords": 2812,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 20,
+      "ec_codewords_per_first_group_block": 117,
+      "second_group_block_count": 4,
+      "ec_codewords_per_second_group_block": 118
+    },
+    "M": {
+      "data_codewords": 2216,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 40,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 7,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 1582,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 43,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 22,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 1222,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 10,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 67,
+      "ec_codewords_per_second_group_block": 16
+    }
+  },
+  "40": {
+    "L": {
+      "data_codewords": 2956,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 19,
+      "ec_codewords_per_first_group_block": 118,
+      "second_group_block_count": 6,
+      "ec_codewords_per_second_group_block": 119
+    },
+    "M": {
+      "data_codewords": 2334,
+      "ec_codewords_per_block": 28,
+      "first_group_block_count": 18,
+      "ec_codewords_per_first_group_block": 47,
+      "second_group_block_count": 31,
+      "ec_codewords_per_second_group_block": 48
+    },
+    "Q": {
+      "data_codewords": 1666,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 34,
+      "ec_codewords_per_first_group_block": 24,
+      "second_group_block_count": 34,
+      "ec_codewords_per_second_group_block": 25
+    },
+    "H": {
+      "data_codewords": 1276,
+      "ec_codewords_per_block": 30,
+      "first_group_block_count": 20,
+      "ec_codewords_per_first_group_block": 15,
+      "second_group_block_count": 61,
+      "ec_codewords_per_second_group_block": 16
+    }
+  }
+}
